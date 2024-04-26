@@ -1,0 +1,13 @@
+langchain
+transformers
+sentence-transformers
+modelscope
+gradio
+nltk
+cpm_kernels
+langchain_community
+unstructured
+torch
+nltk
+faiss-cpu
+gradio
